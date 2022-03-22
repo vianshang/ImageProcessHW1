@@ -1,0 +1,10 @@
+C:\Users\vian\source\repos\E24066462_hw1\bin\Debug\E24066462_hw1.exe.config
+C:\Users\vian\source\repos\E24066462_hw1\bin\Debug\E24066462_hw1.exe
+C:\Users\vian\source\repos\E24066462_hw1\bin\Debug\E24066462_hw1.pdb
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.csprojAssemblyReference.cache
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.Form1.resources
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.Properties.Resources.resources
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.csproj.GenerateResource.cache
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.csproj.CoreCompileInputs.cache
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.exe
+C:\Users\vian\source\repos\E24066462_hw1\obj\Debug\E24066462_hw1.pdb
